@@ -1,2 +1,2 @@
 # Tindev
- Tinder para Developers
+ Tinder para Developers // Feito em NODE JS, REACT e REACT-NATIVE
